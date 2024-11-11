@@ -1,3 +1,4 @@
+package com.example.project;
 public class Database {// Database - Manages database connections.
    //Simple Singleton
     private static final Database instance = new Database();// Eager Initialization

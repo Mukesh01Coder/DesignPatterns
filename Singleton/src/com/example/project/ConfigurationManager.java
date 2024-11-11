@@ -1,3 +1,4 @@
+package com.example.project;
 public class ConfigurationManager { //ConfigurationManager - Manages configuration settings.
 
     // Double-Checked Locking

@@ -1,3 +1,4 @@
+package com.example.project;
 public class Logger { // Logger - Manages application logging.
     // Thread-safe singleton
     private  static Logger instance = null;
